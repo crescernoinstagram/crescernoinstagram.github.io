@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CrescendoMentalmente",
-    "currentPage": "page2.html",
+    "currentPage": "afiliados.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1055,9 +1055,9 @@
         }
       ]
     },
-    "page2.html": {
+    "afiliados.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "Área de afiliados E-book Como Crescer No Instagram",
         "title": "Afiliados",
         "order": 1
       },
